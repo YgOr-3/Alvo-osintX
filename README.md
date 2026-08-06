@@ -6,7 +6,7 @@
 
 <h1 align="center">
   <br>
-  <a href="#"><img src="assets/logo_profile.png" width="300px" alt="OSINT Brazuca"></a>
+  
 </h1>
 
 
