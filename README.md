@@ -1,4 +1,4 @@
-<h1 align="center">OSINT BRAZUCA</h1>
+<h1 align="center">ALVO-OSINTX</h1>
 
 <p align="center">
   Catálogo de fontes abertas brasileiras (públicas, legais e prontas pra investigação). 🇧🇷
